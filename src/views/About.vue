@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is WAS an about page</h1>
+    <h1>Helda is still working on the website</h1>
   </div>
 </template>
